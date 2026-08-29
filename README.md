@@ -1,5 +1,8 @@
-# Welcome to GitHub Desktop!
+# Relational Database Management System & CRUD Integration 📊
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+A robust data persistence layer utilizing **MySQL** backend, integrated with backend services to manage structure query execution, dynamic data operations, and secure connections.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+## Technical Architecture 🛠️
+- **Database Engine:** MySQL / MariaDB Server.
+- **Data Architecture:** Fully normalized relational schemas, index optimization, and CRUD operations execution [S3].
+- **Backend Connectivity:** Optimized connection pooling preventing memory leaks during structural queries.
